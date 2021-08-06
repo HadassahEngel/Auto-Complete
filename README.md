@@ -11,6 +11,8 @@ Once entering some text the user will get the five closest completions to the in
 
 If there are five sentences that the text is their sub-string, they will be returned. Otherwise will be returned sentences containing the sub-string with one of the changes - a missing letter, additional letter, or a replaced letter.
 
+If the user insert `#`, start a new word to search.
+
 The results will be from sentences within given input text files.
 
 You can upload your own files. in `data_manager.py`, line `4`, change to your path to folder.
