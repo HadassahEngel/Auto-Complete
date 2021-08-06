@@ -13,6 +13,8 @@ If there are five sentences that the text is their sub-string, they will be retu
 
 The results will be from sentences within given input text files.
 
+You can upload your own files. in `data_manager.py`, line `4`, change to your path to folder.
+
 ## Example:
 
 ![image](https://user-images.githubusercontent.com/86183775/128430542-4a77b638-1945-4eb1-ab8c-70b42d290760.png)
